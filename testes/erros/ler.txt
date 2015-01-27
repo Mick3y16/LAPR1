@@ -1,0 +1,8 @@
+Devem de ser introduzidos exactamente dois ficheiros,
+um de leitura e outro de escrita.
+
+O ficheiro de leitura tem que existir.
+
+O nome/caminho dos ficheiros não pode ser o mesmo.
+
+Ambos os ficheiros devem de conter a extensão .html.
